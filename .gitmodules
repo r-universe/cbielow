@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "PTXQC"]
 	path = PTXQC
 	url = https://github.com/cbielow/ptxqc
-	shallow = true
-	registered = true
